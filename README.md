@@ -1,7 +1,9 @@
 # ColorMatrixDemo
 
 A simple demo For ColorMatrix.
+
 contain:
-setSaturation
-setScale
-setRotate
+
+1. setSaturation
+2. setScale
+3. setRotate
