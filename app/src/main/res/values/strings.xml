@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ColorMatrixDemo</string>
+    <string name="image_demo">demo</string>
+    <string name="saturation">饱和度</string>
+    <string name="r">R</string>
+    <string name="g">G</string>
+    <string name="b">B</string>
+    <string name="a">A</string>
+</resources>
